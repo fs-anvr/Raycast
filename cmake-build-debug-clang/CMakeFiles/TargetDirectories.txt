@@ -1,3 +1,0 @@
-C:/Users/fsanv/my_projects/Raycast/cmake-build-debug-clang/CMakeFiles/edit_cache.dir
-C:/Users/fsanv/my_projects/Raycast/cmake-build-debug-clang/CMakeFiles/Raycast.dir
-C:/Users/fsanv/my_projects/Raycast/cmake-build-debug-clang/CMakeFiles/rebuild_cache.dir
