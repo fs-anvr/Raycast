@@ -1,0 +1,6 @@
+#Clion
+/.idea
+
+#Clion Build
+/cmake-build-debug
+/cmake-build-debug-clang
